@@ -34,3 +34,11 @@ dataset.zip file
 |-annotations directory
   |-xmls directory
     |-annotation files (format: shark_1.xml)
+    
+## Create label_map.pbtxt
+Create label_map.pbtxt:
+
+item {
+  id: 1
+  name: 'shark'
+}
