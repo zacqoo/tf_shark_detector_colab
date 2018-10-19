@@ -29,11 +29,12 @@ Steps to create dataset
 Zip file structure:
 
 dataset.zip file
-|-images directory
-  |-image files (format: shark_1.jpg)
-|-annotations directory
-  |-xmls directory
-    |-annotation files (format: shark_1.xml)
+
+- images directory
+   - image files (format: shark_1.jpg)
+- annotations directory
+   - xmls directory
+     - annotation files (format: shark_1.xml)
     
 ## Create label_map.pbtxt
 Create label_map.pbtxt:
