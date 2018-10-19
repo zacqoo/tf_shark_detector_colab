@@ -44,7 +44,7 @@ item {
   name: 'shark'
 }
 
-
+## Sample images
 
 ![sample_1.png](sample_1.png)
 ![sample_2.png](sample_2.png)
